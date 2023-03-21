@@ -42,12 +42,6 @@ body {
 	margin-top: 150px;
 }
 
-footer {
-	text-align: center;
-	margin-top: 320px;
-	color: #BDBDBD;
-
-}
 
 #p2 {
 	color: #545454;
@@ -64,4 +58,11 @@ footer {
 #home {
 
 	display: inline-block;
+}
+
+footer {
+	text-align: center;
+	margin-top: 320px;
+	color: #BDBDBD;
+
 }
